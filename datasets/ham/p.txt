@@ -1,0 +1,362 @@
+From fork-admin@xent.com  Fri Aug 23 16:44:54 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id F416A44155
+	for <jm@localhost>; Fri, 23 Aug 2002 11:44:51 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 23 Aug 2002 16:44:52 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7NFdcZ30086 for <jm@jmason.org>;
+    Fri, 23 Aug 2002 16:39:39 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 34D642940D3; Fri, 23 Aug 2002 08:37:11 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from crank.slack.net (slack.net [166.84.151.181]) by xent.com
+    (Postfix) with ESMTP id E3396294099 for <fork@xent.com>; Fri,
+    23 Aug 2002 08:36:57 -0700 (PDT)
+Received: by crank.slack.net (Postfix, from userid 596) id D68603ECDE;
+    Fri, 23 Aug 2002 11:40:46 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1]) by crank.slack.net
+    (Postfix) with ESMTP id D500F3EB2E; Fri, 23 Aug 2002 11:40:46 -0400 (EDT)
+From: Tom <tomwhore@slack.net>
+To: Robert Harley <harley@argote.ch>
+Cc: fork@spamassassin.taint.org
+Subject: Re: Entrepreneurs
+In-Reply-To: <20020823084435.D5070C44E@argote.ch>
+Message-Id: <Pine.BSO.4.44.0208231139110.8637-100000@crank.slack.net>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Fri, 23 Aug 2002 11:40:46 -0400 (EDT)
+
+On Fri, 23 Aug 2002, Robert Harley wrote:
+
+--]Next time I hear a joke, I promise not to laugh until I have checked
+--]out primary sources for confirmation in triplicate, OK?
+
+
+Oh please. Walking sideways like that is bad for your shoes.
+
+Though it is kinda cute when you get all reasonomatic
+
+bang bang
+
+have a nice day.
+
+
+
+http://xent.com/mailman/listinfo/fork
+
+Subject: Pet Update: Catch Up Soon
+I wanted to talk about pet update. Catch Up Soon, and let's make it special!
+---
+Subject: Hobby Discussion: Just Checking In
+I wanted to talk about hobby discussion. Just Checking In, and let's make it special!
+---
+Subject: Life Update: Don't Miss Out
+I wanted to talk about life update. Don't Miss Out, and let's make it special!
+---
+Subject: Dinner Invitation: Join Us
+I wanted to talk about dinner invitation. Join Us, and let's make it special!
+---
+Subject: Family Gathering: Don't Miss Out
+I wanted to talk about family gathering. Don't Miss Out, and let's make it special!
+---
+Subject: Friendly Reminder: Sharing Some Exciting News
+I wanted to talk about friendly reminder. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Gift Suggestion: Join Us
+I wanted to talk about gift suggestion. Join Us, and let's make it special!
+---
+Subject: Weekend Plans: Let's Talk
+I wanted to talk about weekend plans. Let's Talk, and let's make it special!
+---
+Subject: Health Check-in: Let's Plan Together
+I wanted to talk about health check-in. Let's Plan Together, and let's make it special!
+---
+Subject: Fitness Challenge: Let's Plan Together
+I wanted to talk about fitness challenge. Let's Plan Together, and let's make it special!
+---
+Subject: Family Gathering: Sharing Some Exciting News
+I wanted to talk about family gathering. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Birthday Reminder: A Little Something for You
+I wanted to talk about birthday reminder. A Little Something for You, and let's make it special!
+---
+Subject: Book Recommendation: Hope to See You
+I wanted to talk about book recommendation. Hope to See You, and let's make it special!
+---
+Subject: Exciting News: Don't Miss Out
+I wanted to talk about exciting news. Don't Miss Out, and let's make it special!
+---
+Subject: Music Playlist: Looking Forward to It
+I wanted to talk about music playlist. Looking Forward to It, and let's make it special!
+---
+Subject: Fitness Challenge: Looking Forward to It
+I wanted to talk about fitness challenge. Looking Forward to It, and let's make it special!
+---
+Subject: Dinner Invitation: Let's Talk
+I wanted to talk about dinner invitation. Let's Talk, and let's make it special!
+---
+Subject: Hobby Discussion: A Little Something for You
+I wanted to talk about hobby discussion. A Little Something for You, and let's make it special!
+---
+Subject: Hobby Discussion: Sharing Some Exciting News
+I wanted to talk about hobby discussion. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Exciting News: Catch Up Soon
+I wanted to talk about exciting news. Catch Up Soon, and let's make it special!
+---
+Subject: Weekend Plans: Catch Up Soon
+I wanted to talk about weekend plans. Catch Up Soon, and let's make it special!
+---
+Subject: Travel Update: Join Us
+I wanted to talk about travel update. Join Us, and let's make it special!
+---
+Subject: Recipe Share: Let's Talk
+I wanted to talk about recipe share. Let's Talk, and let's make it special!
+---
+Subject: Recipe Share: Looking Forward to It
+I wanted to talk about recipe share. Looking Forward to It, and let's make it special!
+---
+Subject: Catch-up Request: Looking Forward to It
+I wanted to talk about catch-up request. Looking Forward to It, and let's make it special!
+---
+Subject: Fitness Challenge: Just Checking In
+I wanted to talk about fitness challenge. Just Checking In, and let's make it special!
+---
+Subject: Holiday Greetings: Catch Up Soon
+I wanted to talk about holiday greetings. Catch Up Soon, and let's make it special!
+---
+Subject: Home Improvement Ideas: Don't Miss Out
+I wanted to talk about home improvement ideas. Don't Miss Out, and let's make it special!
+---
+Subject: Music Playlist: Sharing Some Exciting News
+I wanted to talk about music playlist. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Book Recommendation: Sharing Some Exciting News
+I wanted to talk about book recommendation. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Health Check-in: Catch Up Soon
+I wanted to talk about health check-in. Catch Up Soon, and let's make it special!
+---
+Subject: Dinner Invitation: Catch Up Soon
+I wanted to talk about dinner invitation. Catch Up Soon, and let's make it special!
+---
+Subject: Recipe Share: Just Checking In
+I wanted to talk about recipe share. Just Checking In, and let's make it special!
+---
+Subject: Holiday Greetings: Let's Talk
+I wanted to talk about holiday greetings. Let's Talk, and let's make it special!
+---
+Subject: Weekend Plans: Just Checking In
+I wanted to talk about weekend plans. Just Checking In, and let's make it special!
+---
+Subject: Birthday Reminder: Sharing Some Exciting News
+I wanted to talk about birthday reminder. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Music Playlist: Join Us
+I wanted to talk about music playlist. Join Us, and let's make it special!
+---
+Subject: Family Gathering: Let's Talk
+I wanted to talk about family gathering. Let's Talk, and let's make it special!
+---
+Subject: Life Update: Let's Talk
+I wanted to talk about life update. Let's Talk, and let's make it special!
+---
+Subject: Exciting News: Hope to See You
+I wanted to talk about exciting news. Hope to See You, and let's make it special!
+---
+Subject: Music Playlist: Let's Talk
+I wanted to talk about music playlist. Let's Talk, and let's make it special!
+---
+Subject: Movie Night: Hope to See You
+I wanted to talk about movie night. Hope to See You, and let's make it special!
+---
+Subject: Life Update: Catch Up Soon
+I wanted to talk about life update. Catch Up Soon, and let's make it special!
+---
+Subject: Friendly Reminder: Let's Talk
+I wanted to talk about friendly reminder. Let's Talk, and let's make it special!
+---
+Subject: Dinner Invitation: Looking Forward to It
+I wanted to talk about dinner invitation. Looking Forward to It, and let's make it special!
+---
+Subject: Book Recommendation: Let's Plan Together
+I wanted to talk about book recommendation. Let's Plan Together, and let's make it special!
+---
+Subject: Pet Update: Hope to See You
+I wanted to talk about pet update. Hope to See You, and let's make it special!
+---
+Subject: Travel Update: Just Checking In
+I wanted to talk about travel update. Just Checking In, and let's make it special!
+---
+Subject: Friendly Reminder: A Little Something for You
+I wanted to talk about friendly reminder. A Little Something for You, and let's make it special!
+---
+Subject: Family Gathering: A Little Something for You
+I wanted to talk about family gathering. A Little Something for You, and let's make it special!
+---
+Subject: Book Recommendation: A Little Something for You
+I wanted to talk about book recommendation. A Little Something for You, and let's make it special!
+---
+Subject: Life Update: Just Checking In
+I wanted to talk about life update. Just Checking In, and let's make it special!
+---
+Subject: Health Check-in: Sharing Some Exciting News
+I wanted to talk about health check-in. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Music Playlist: Don't Miss Out
+I wanted to talk about music playlist. Don't Miss Out, and let's make it special!
+---
+Subject: Home Improvement Ideas: Let's Plan Together
+I wanted to talk about home improvement ideas. Let's Plan Together, and let's make it special!
+---
+Subject: Recipe Share: Don't Miss Out
+I wanted to talk about recipe share. Don't Miss Out, and let's make it special!
+---
+Subject: Home Improvement Ideas: Hope to See You
+I wanted to talk about home improvement ideas. Hope to See You, and let's make it special!
+---
+Subject: Exciting News: Looking Forward to It
+I wanted to talk about exciting news. Looking Forward to It, and let's make it special!
+---
+Subject: Home Improvement Ideas: Let's Talk
+I wanted to talk about home improvement ideas. Let's Talk, and let's make it special!
+---
+Subject: Fitness Challenge: Catch Up Soon
+I wanted to talk about fitness challenge. Catch Up Soon, and let's make it special!
+---
+Subject: Birthday Reminder: Looking Forward to It
+I wanted to talk about birthday reminder. Looking Forward to It, and let's make it special!
+---
+Subject: Travel Update: Let's Talk
+I wanted to talk about travel update. Let's Talk, and let's make it special!
+---
+Subject: Hobby Discussion: Looking Forward to It
+I wanted to talk about hobby discussion. Looking Forward to It, and let's make it special!
+---
+Subject: Friendly Reminder: Catch Up Soon
+I wanted to talk about friendly reminder. Catch Up Soon, and let's make it special!
+---
+Subject: Recipe Share: Join Us
+I wanted to talk about recipe share. Join Us, and let's make it special!
+---
+Subject: Gift Suggestion: Catch Up Soon
+I wanted to talk about gift suggestion. Catch Up Soon, and let's make it special!
+---
+Subject: Travel Update: Looking Forward to It
+I wanted to talk about travel update. Looking Forward to It, and let's make it special!
+---
+Subject: Book Recommendation: Looking Forward to It
+I wanted to talk about book recommendation. Looking Forward to It, and let's make it special!
+---
+Subject: Health Check-in: A Little Something for You
+I wanted to talk about health check-in. A Little Something for You, and let's make it special!
+---
+Subject: Movie Night: Let's Plan Together
+I wanted to talk about movie night. Let's Plan Together, and let's make it special!
+---
+Subject: Exciting News: A Little Something for You
+I wanted to talk about exciting news. A Little Something for You, and let's make it special!
+---
+Subject: Movie Night: Looking Forward to It
+I wanted to talk about movie night. Looking Forward to It, and let's make it special!
+---
+Subject: Pet Update: Just Checking In
+I wanted to talk about pet update. Just Checking In, and let's make it special!
+---
+Subject: Pet Update: Looking Forward to It
+I wanted to talk about pet update. Looking Forward to It, and let's make it special!
+---
+Subject: Birthday Reminder: Don't Miss Out
+I wanted to talk about birthday reminder. Don't Miss Out, and let's make it special!
+---
+Subject: Health Check-in: Hope to See You
+I wanted to talk about health check-in. Hope to See You, and let's make it special!
+---
+Subject: Pet Update: Let's Talk
+I wanted to talk about pet update. Let's Talk, and let's make it special!
+---
+Subject: Life Update: Hope to See You
+I wanted to talk about life update. Hope to See You, and let's make it special!
+---
+Subject: Gift Suggestion: A Little Something for You
+I wanted to talk about gift suggestion. A Little Something for You, and let's make it special!
+---
+Subject: Dinner Invitation: Let's Plan Together
+I wanted to talk about dinner invitation. Let's Plan Together, and let's make it special!
+---
+Subject: Family Gathering: Join Us
+I wanted to talk about family gathering. Join Us, and let's make it special!
+---
+Subject: Holiday Greetings: Hope to See You
+I wanted to talk about holiday greetings. Hope to See You, and let's make it special!
+---
+Subject: Dinner Invitation: Sharing Some Exciting News
+I wanted to talk about dinner invitation. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Life Update: Sharing Some Exciting News
+I wanted to talk about life update. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Exciting News: Let's Talk
+I wanted to talk about exciting news. Let's Talk, and let's make it special!
+---
+Subject: Pet Update: Don't Miss Out
+I wanted to talk about pet update. Don't Miss Out, and let's make it special!
+---
+Subject: Health Check-in: Let's Talk
+I wanted to talk about health check-in. Let's Talk, and let's make it special!
+---
+Subject: Movie Night: Catch Up Soon
+I wanted to talk about movie night. Catch Up Soon, and let's make it special!
+---
+Subject: Movie Night: A Little Something for You
+I wanted to talk about movie night. A Little Something for You, and let's make it special!
+---
+Subject: Life Update: Let's Plan Together
+I wanted to talk about life update. Let's Plan Together, and let's make it special!
+---
+Subject: Exciting News: Just Checking In
+I wanted to talk about exciting news. Just Checking In, and let's make it special!
+---
+Subject: Hobby Discussion: Don't Miss Out
+I wanted to talk about hobby discussion. Don't Miss Out, and let's make it special!
+---
+Subject: Fitness Challenge: A Little Something for You
+I wanted to talk about fitness challenge. A Little Something for You, and let's make it special!
+---
+Subject: Movie Night: Let's Talk
+I wanted to talk about movie night. Let's Talk, and let's make it special!
+---
+Subject: Birthday Reminder: Let's Talk
+I wanted to talk about birthday reminder. Let's Talk, and let's make it special!
+---
+Subject: Home Improvement Ideas: Sharing Some Exciting News
+I wanted to talk about home improvement ideas. Sharing Some Exciting News, and let's make it special!
+---
+Subject: Family Gathering: Just Checking In
+I wanted to talk about family gathering. Just Checking In, and let's make it special!
+---
+Subject: Hobby Discussion: Join Us
+I wanted to talk about hobby discussion. Join Us, and let's make it special!
+---
+Subject: Catch-up Request: Join Us
+I wanted to talk about catch-up request. Join Us, and let's make it special!
+---
+Subject: Birthday Reminder: Let's Plan Together
+I wanted to talk about birthday reminder. Let's Plan Together, and let's make it special!
+---
